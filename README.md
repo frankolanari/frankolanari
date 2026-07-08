@@ -1,41 +1,116 @@
-# Hi, I'm Azi 👋
+<!--
+    Hey there! 👋
+    Thanks for stopping by.
 
-I'm an engineer with a background in fintech, where I've spent the past few years building analytics, internal tools, and automation that improve how teams operate and how customers experience financial products.
+    I'm Azi, a GTM Engineer passionate about building
+    revenue systems, internal tools, and AI-powered automations.
 
-Working in the remittance and payments space exposed me to challenges across customer operations, compliance, growth, product, and engineering. That experience sparked my interest in building systems that eliminate manual work, surface better insights, and help businesses scale more efficiently.
+    If you're building great products—or hiring someone who builds
+    the systems behind them—I'd love to connect.
+-->
 
-Today, I focus on building software at the intersection of engineering, data, AI, and go-to-market operations.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F8EF7&height=120&section=header"/>
 
-## What I build
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=700&color=4F8EF7&width=600&lines=Hi%2C+I'm+Emoto;GTM+Engineer;Revenue+Operations+Engineer;Building+Revenue+Systems;SQL+%7C+Python+%7C+Retool+%7C+AI"/>
+</a>
 
-* ⚙️ Internal tools with Retool
-* 🤖 AI-powered workflows and automations
-* 📊 Analytics platforms and dashboards
-* 🔄 CRM and RevOps automation
-* 💳 Fintech and payments tooling
-* 📈 Data pipelines and integrations
+# 👋 About Me
 
-## Tech Stack
+I'm a GTM Engineer with a background in fintech, analytics and automation.
 
-**Languages**
+Over the past three years I've built internal tools, revenue workflows and AI-powered automations that help teams move faster and make better decisions.
 
-* Python
-* SQL
-* JavaScript
+I'm passionate about turning messy business processes into scalable systems using data, software and AI.
 
-**Tools & Platforms**
+---
 
-* Retool
-* n8n
-* HubSpot
-* PostgreSQL
-* Git & GitHub
-* Power BI
+## 🚀 Currently Building
 
-## Current Focus
+- 🤖 Shepherd — AI Voice of Customer Platform
+- 📱 appSonar — Lead generation for mobile-first companies
+- 📄 Enterprise Account Statement Generator
+- ⚡ GTM automations with HubSpot, Clay & n8n
 
-I'm currently exploring how AI can transform go-to-market teams by combining customer data, product signals, and workflow automation into systems that help businesses grow more efficiently.
+---
 
-I'm always building, experimenting, and shipping projects that solve real operational problems—especially in fintech, payments, and B2B SaaS.
+## 🛠 Tech Stack
 
-If you're interested in building practical software that creates measurable business value, let's connect.
+### Languages
+
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,git,github)](https://skillicons.dev)
+
+### Data
+
+SQL • PostgreSQL • Snowflake • Pandas • Power BI
+
+### Revenue & Automation
+
+Retool • HubSpot • Clay • Apollo • n8n • GitHub Actions
+
+### AI
+
+OpenAI • Anthropic • Prompt Engineering • LLM Workflows
+
+### Currently Learning
+
+[![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+
+Salesforce • Advanced RevOps
+
+---
+
+# 🌟 Featured Projects
+
+### 🤖 Shepherd
+
+AI-powered Voice of Customer platform that consolidates customer feedback into actionable insights.
+
+### 📄 Account Statement Generator
+
+Enterprise-grade PDF generation platform built with Retool for fintech and remittance businesses.
+
+### 📱 appSonar
+
+Lead generation platform purpose-built for companies selling to businesses with mobile apps.
+
+### ⚡ GTM Automation Library
+
+Automations connecting HubSpot, Clay, Apollo, Retool and AI.
+
+---
+
+# 📊 GitHub Stats
+
+<!-- GitHub Stats -->
+
+<!-- Streak Stats -->
+
+<!-- Activity Graph -->
+
+---
+
+# 🌍 Connect With Me
+
+LinkedIn
+
+Portfolio
+
+Email
+
+YouTube
+
+Resume
+
+---
+
+## 💼 Open To
+
+- GTM Engineer
+- Revenue Operations Engineer
+- Growth Engineering
+- Solutions Engineering
+
+Remote • Remote EMEA • Hybrid
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F8EF7&height=120&section=footer"/>
