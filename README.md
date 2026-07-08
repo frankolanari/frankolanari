@@ -12,7 +12,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F8EF7&height=120&section=header"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=700&color=4F8EF7&width=600&lines=Hi%2C+I'm+Emoto;GTM+Engineer;Revenue+Operations+Engineer;Building+Revenue+Systems;SQL+%7C+Python+%7C+Retool+%7C+AI"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=700&color=4F8EF7&width=600&lines=Hi%2C+I'm+Azi;GTM+Engineer;Revenue+Operations+Engineer;Building+Revenue+Systems;SQL+%7C+Python+%7C+Retool+%7C+AI"/>
 </a>
 
 # 👋 About Me
