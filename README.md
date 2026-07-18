@@ -1,116 +1,58 @@
-<!--
-    Hey there! 👋
-    Thanks for stopping by.
-
-    I'm Azi, a GTM Engineer passionate about building
-    revenue systems, internal tools, and AI-powered automations.
-
-    If you're building great products—or hiring someone who builds
-    the systems behind them—I'd love to connect.
--->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F8EF7&height=120&section=header"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=25&duration=4000&pause=700&color=4F8EF7&width=600&lines=Hi%2C+I'm+Azi;GTM+Engineer;Revenue+Operations+Engineer;Building+Revenue+Systems;SQL+%7C+Python+%7C+Retool+%7C+AI"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=24&duration=4000&pause=700&color=4F8EF7&width=600&lines=Data+%2B+Automation+Builder;I+turn+messy+data+into+systems+people+rely+on;SQL+%7C+Python+%7C+Retool+%7C+AI+Agents" />
 </a>
 
 # 👋 About Me
 
-I'm a GTM Engineer with a background in fintech, analytics and automation.
+I build internal tools, data pipelines, and automations that let small teams punch above their weight. Most of what's here came out of solving a real problem in fintech, not a tutorial.
 
-Over the past three years I've built internal tools, revenue workflows and AI-powered automations that help teams move faster and make better decisions.
-
-I'm passionate about turning messy business processes into scalable systems using data, software and AI.
+I move across finance, compliance, operations, support, and engineering, wherever the gap is, and I usually own the thing solo from idea to production.
 
 ---
 
 ## 🚀 Currently Building
 
-- 🤖 Shepherd — AI Voice of Customer Platform
-- 📱 appSonar — Lead generation for mobile-first companies
-- 📄 Enterprise Account Statement Generator
-- ⚡ GTM automations with HubSpot, Clay & n8n
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,typescript,git,github)](https://skillicons.dev)
-
-### Data
-
-SQL • PostgreSQL • Snowflake • Pandas • Power BI
-
-### Revenue & Automation
-
-Retool • HubSpot • Clay • Apollo • n8n • GitHub Actions
-
-### AI
-
-OpenAI • Anthropic • Prompt Engineering • LLM Workflows
-
-### Currently Learning
-
-[![Learning](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
-
-Salesforce • Advanced RevOps
-
----
-
-# 🌟 Featured Projects
-
-### 🤖 Shepherd
-
-AI-powered Voice of Customer platform that consolidates customer feedback into actionable insights.
-
-### 📄 Account Statement Generator
-
-Enterprise-grade PDF generation platform built with Retool for fintech and remittance businesses.
-
 ### 📱 appSonar
-
-Lead generation platform purpose-built for companies selling to businesses with mobile apps.
-
-### ⚡ GTM Automation Library
-
-Automations connecting HubSpot, Clay, Apollo, Retool and AI.
+A lead generation platform built for companies selling into businesses with mobile apps (think AppLovin, Adjoe, and similar mobile ad-tech/monetization players). Helps these companies find and reach the right mobile-first prospects.
 
 ---
 
-# 📊 GitHub Stats
+## 🧰 Tech Stack
+ 
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,postgres,github,docker)](https://skillicons.dev)
 
-<!-- GitHub Stats -->
+#### Languages & Data
+SQL • Python • Power BI • Looker Studio • Metabase • Superset
 
-<!-- Streak Stats -->
+#### Automation & Revenue Tooling
+Retool  • n8n • HubSpot • Clay • Apollo • Instantly
 
-<!-- Activity Graph -->
+#### AI
+Claude Code • Codex • Prompt engineering • LLM-based agents and workflows
 
----
-
-# 🌍 Connect With Me
-
-LinkedIn
-
-Portfolio
-
-Email
-
-YouTube
-
-Resume
+**Actively building Skills in:**
+ Advanced RevOps & GTM Engineering
 
 ---
+
 
 ## 💼 Open To
 
-- GTM Engineer
-- Revenue Operations Engineer
-- Growth Engineering
-- Solutions Engineering
-
+Data Analyst • GTM Engineering • Revenue Operations • Internal Tooling (Low code Dev - Retool) •  AI Automations roles
 Remote • Remote EMEA • Hybrid
+
+---
+
+## 🌍 Connect
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/frankolanari) [**LinkedIn**](https://linkedin.com/in/frankolanari)
+ 
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:frank.olanari@gmail.com) [**Email Me**](mailto:frank.olanari@gmail.com)
+ 
+[![LinkedIn](https://skillicons.dev/icons?i=ros)](https://www.youtube.com/playlist?list=PLNxYoEwuZ6bM) [**Portfolio**](https://www.youtube.com/playlist?list=PLNxYoEwuZ6bM)
+
+<!-- Add YouTube and Resume links here once you have stable URLs for them -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4F8EF7&height=120&section=footer"/>
